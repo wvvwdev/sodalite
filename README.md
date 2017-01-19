@@ -1,2 +1,2 @@
-# simple-angular2-graphql-app
-Simple example angular2 application with Apollo GraphQL Server Express mongoose with subscriptions, Redux, Immutable, Material2, Fullcalendar, Socket.io.
+# Sodalite
+Simple example angular2 application with Apollo GraphQL (subscriptions), Crypto-JS, nvd3 Redux, Immutable, Angular Material, FullCalendar, Socket.io.
